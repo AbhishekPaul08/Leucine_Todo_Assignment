@@ -1,0 +1,104 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+header {
+  background-color: #4a90e2;
+  color: white;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+footer {
+  text-align: center;
+  margin-top: 2rem;
+  padding: 1rem;
+  color: #666;
+  border-top: 1px solid #ddd;
+}
+
+
+form {
+  margin-bottom: 2rem;
+  background-color: white;
+  padding: 1rem;
+  border: 1px solid #ddd;
+}
+
+input, textarea {
+  display: block;
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+}
+
+button {
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3a80d2;
+}
+
+button:disabled {
+  background-color: #cccccc;
+}
+
+button.delete-btn {
+  background-color: #e25c5c;
+  margin-left: 1rem;
+}
+
+button.delete-btn:hover {
+  background-color: #d24c4c;
+}
+
+
+.todo-item {
+  background-color: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ddd;
+}
+
+.todo-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.todo-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.error-message {
+  background-color: #ffebee;
+  color: #c62828;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.summary-box {
+  background-color: #e8f5e9;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #c8e6c9;
+}
