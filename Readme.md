@@ -1,3 +1,18 @@
+## Clone the repository and create .env file in "/Leucine Assignment/API" and copy keys from .env.example to .env file.
+
+# To start the backend run the following command in your terminal
+
+1. cd API
+2. npm install       
+3. npm run dev 
+
+# To start the frontend run the following command in your terminal
+
+1. cd todo-app-frontend
+2. npm install
+3. npm start
+
+---
 ##  External Service Setup
 
 ###  Slack Webhook Setup
