@@ -49,7 +49,7 @@
 2. When asked about **Google Analytics**, select **“Default Account for Firebase”** and proceed.
 3. On the dashboard, click the **web icon (`</>`)** under **“Get started by adding Firebase to your app.”**
 4. Enter your web app name and click **“Register app”**.
-5. Copy the `firebaseConfig` object provided and use it in your frontend initialization.
+5. Copy the `firebaseConfig` object provided and paste it in `.env` using the keys from .env.example.
 6. Click **“Continue to Console”**, then navigate to **Cloud Firestore** from the left sidebar under **“Build”**.
 7. Click **“Create database”**, choose a location, and for **security rules**, select **“Start in test mode”**, then click **Create**.
 
