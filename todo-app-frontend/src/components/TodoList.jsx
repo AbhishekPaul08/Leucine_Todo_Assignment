@@ -17,7 +17,7 @@ const TodoList = () => {
       setTodos(data);
       setError('');
     } catch (error) {
-      setError('Failed to load todos. Please refresh the page.');
+      setError('Failed to load todos.');
     } finally {
       setLoading(false);
     }
