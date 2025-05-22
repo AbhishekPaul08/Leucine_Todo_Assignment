@@ -29,7 +29,7 @@
 
 ---
 
-### 🤖 Groq API Key Setup
+### Groq API Key Setup
 
 1. Go to https://groq.com and click on the **“DEV Console”** in the top-right corner. Sign in or register.
 2. Click on **“API Keys”** in the navigation bar.
@@ -37,12 +37,12 @@
 4. Enter a name for your API key and submit.
 5. Copy the generated key and paste it in your `.env` file
 
-
+# I decided to Groq because it is fast and efficien, it uses TPU and provides many open source models, for this project i have used llama3-8b-8192.
 
 
 ---
 
-### 🔥 Firebase (Firestore) Setup
+### Firebase (Firestore) Setup
 
 1. Go to https://console.firebase.google.com and click **“Create a new project”**. Name your project and click **Continue** through all steps.
 2. When asked about **Google Analytics**, select **“Default Account for Firebase”** and proceed.
