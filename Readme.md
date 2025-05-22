@@ -37,7 +37,8 @@
 4. Enter a name for your API key and submit.
 5. Copy the generated key and paste it in your `.env` file
 
-# I decided to use Groq because it is fast and efficient, it uses TPU and provides many open source models, for this project i have used llama3-8b-8192.
+**I decided to use Groq because it is fast and efficient, it uses TPU and provides many open source models, for this project i have used llama3-8b-8192.**
+**It is also free and does not require you to enter payment details unlike other platforms.**
 
 
 ---
